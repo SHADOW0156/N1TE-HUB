@@ -46,7 +46,7 @@ FOVCircle.Color = BORDER_BLUE
 
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "N1TE_HUB_V2"
+ScreenGui.Name = "N1TE HUB"
 ScreenGui.Parent = CoreGui
 ScreenGui.DisplayOrder = 9999
 
